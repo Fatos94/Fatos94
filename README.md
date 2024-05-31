@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Fatos94/Network-Traffic-Analysis-with-tcpdump.">Network Traffic Analysis with tcpdump</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| User and Device Approval Sysytem with Python    | <a href="https://github.com/Fatos94/UserDeviceApprovalPy.">User&device Approval Sysytem</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
