@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/tosin-falarunu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Recent Google Cybersecurity Certificate graduate and ISC2 member passionate about leveraging security expertise to protect organizations. Committed to continuous learning and innovation in cybersecurity.
 
 ## Objective
 As a recent graduate of the Google Cybersecurity Certificate course, I am eager to leverage my newly acquired skills and knowledge in a dynamic and challenging cybersecurity role. I am committed to applying my understanding of security principles, threat detection, and risk management to protect and enhance the security posture of an organization. My goal is to contribute to a team that values continuous learning and innovation in the field of cybersecurity.
